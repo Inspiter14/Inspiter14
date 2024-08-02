@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Inspiter14
-- 👀 I’m interested in Cyber lawd and security ...
-- 🌱 I’m currently pursuing my diploma in CM ...
+- 👀 Tech Enthusiast | Comp Engineering | Web Developer | UI/UX Learner | Creative Spirit | Passionate Writer & Artist | Innovating at the crossroads of tech and art
 - ✌🏻 Always ready to learn.
 - 📫 You can find me on Tweeter as @inspiter_1420..
 
